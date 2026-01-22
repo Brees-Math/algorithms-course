@@ -1,3 +1,5 @@
+#¿Brenda deberias cargar tus dos optativas?
+#El 21 de enero de 2026 tuvimos una clase magnifica donde nos enseñaron estos algoritmos
 import random
 
 def generate_random_list(length, min_val=-10, max_val=10):
